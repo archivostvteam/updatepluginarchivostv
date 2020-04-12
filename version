@@ -1,5 +1,5 @@
-version=107
+version=108
 
-@|@| Agregado soporte basico en series a hdfull, de A-Z, tarda un poco, paciencia |@|@
-@@@@ Corregido un error en las series megadede @@@@
-=@=@ Cambios en el actualizador y añadido soporte del servidor uptobox @=@=
+@|@| Agregado 2 servidores mas a hdfull, vidtodo y clipwatching |@|@
+@@@@ Reestructurado del plugin y optimizaciones @@@@
+=@=@ Agregado soporte basico en series a hdfull, de A-Z, tarda un poco, paciencia @=@=
