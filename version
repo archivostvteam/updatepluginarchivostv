@@ -1,5 +1,5 @@
-version=108
+version=109
 
-@|@| Agregado 2 servidores mas a hdfull, vidtodo y clipwatching |@|@
-@@@@ Reestructurado del plugin y optimizaciones @@@@
-=@=@ Agregado soporte basico en series a hdfull, de A-Z, tarda un poco, paciencia @=@=
+@|@| Añadido una funcion de busqueda en hdfull, igual que megadede |@|@
+@@@@ Añadida en lo posible la sinopsis de peliculas y series @@@@
+=@=@ Agregado 2 servidores mas a hdfull, vidtodo y clipwatching @=@=
